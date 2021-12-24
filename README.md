@@ -12,3 +12,6 @@ Proses terdiri dari :
 * Feature Engineering
 * Create Model
 * Submit prediction to Hackerearth
+
+Link google colab :
+https://colab.research.google.com/drive/1-EwSzNYyy73nYTrKYnvOVqfChGP5-Yk8?usp=sharing
