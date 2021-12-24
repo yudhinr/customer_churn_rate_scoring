@@ -10,7 +10,7 @@ Proses terdiri dari :
 * Problem Identificaion
 * EDA (Exploratory Data Analysis)
 * Feature Engineering
-* Create Model
+* Create Model (XGBoost, Random Forest, KNN, SVM)
 * Submit prediction to Hackerearth
 
 Link google colab :
